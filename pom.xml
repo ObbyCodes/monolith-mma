@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.obby.monolith</groupId>
 	<artifactId>monolith-mma</artifactId>
-	<version>1.0.0</version>
+	<version>0.0.1</version>
 	<name>monolith-mma</name>
 	<description>A one-stop-shop for all things MMA</description>
 	<properties>
